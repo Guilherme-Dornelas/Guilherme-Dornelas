@@ -1,4 +1,4 @@
-## Oiii eu sou a Guilherme Dornelas, estudante de progamação!
+## Oiii eu sou a Guilherme Dornelas, um entusiasta de progamaçã!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Dornelas&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Dornelas)](https://github.com/Guilherme-Dornelas/github-readme-stats)
